@@ -2800,7 +2800,9 @@
         "http://collection.nationalmuseum.se/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=19074&viewType=detailView"
     ],
     "😦": [],
-    "😧": [],
+    "😧": [
+        "http://collection.nationalmuseum.se/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=177576&viewType=detailView"
+    ],
     "😨": [],
     "😩": [
         "https://digitaltmuseum.se/021046504493/klagan"
@@ -2835,7 +2837,9 @@
         "https://digitaltmuseum.se/021046508506/hypnotisk-seans"
     ],
     "😳": [],
-    "😴": [],
+    "😴": [
+        "http://collection.nationalmuseum.se/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=48760&viewType=detailView"
+    ],
     "😵": [
         "https://digitaltmuseum.se/021046508747/den-heliga-teresas-extas",
         "https://digitaltmuseum.se/021046508539/nacken"
@@ -2846,11 +2850,14 @@
     "😹": [],
     "😺": [],
     "😻": [],
-    "😼": [],
+    "😼": [
+        "http://collection.nationalmuseum.se/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112932&viewType=detailView"
+    ],
     "😽": [],
     "😾": [
         "https://digitaltmuseum.se/011024652575/frimarke",
-        "https://stockholmskallan.stockholm.se/post/14525"
+        "https://stockholmskallan.stockholm.se/post/14525",
+        "http://collection.nationalmuseum.se/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=109898&viewType=detailView"
     ],
     "😿": [],
     "🙀": [
@@ -2870,8 +2877,12 @@
         "https://digitaltmuseum.se/021046508770/greve-carl-gustaf-tessin"
     ],
     "🙅": [],
-    "🙆": [],
-    "🙇": [],
+    "🙆": [
+        "https://digitaltmuseum.se/021016341631/laterna-magica-bild-malad-i-farg-pa-glasskiva-balettdansande-kvinna"
+    ],
+    "🙇": [
+        "https://digitaltmuseum.se/011013844614/w-troyon-de-lausanne-a-ehrenhoff-fause-antiquite-en-man-bugar-djupt-for"
+    ],
     "🙈": [
         "https://digitaltmuseum.se/011014318255/enligt-notering-gasafotboll-1-11-59"
     ],
