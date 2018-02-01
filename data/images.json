@@ -437,7 +437,7 @@
         "https://digitaltmuseum.se/021016929935/orig-text-forsta-maj-demonstration-i-linkoping-1890-tal"
     ],
     "✋": [
-        "https://digitaltmuseum.se/021015841561/skolans-dag-pa-liveredsskolan-i-kallered-ar-1985-for-mer-information-om", 
+        "https://digitaltmuseum.se/021015841561/skolans-dag-pa-liveredsskolan-i-kallered-ar-1985-for-mer-information-om",
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=123425&viewType=detailView"
     ],
     "✌️": [
@@ -1263,7 +1263,8 @@
     "🎎": [
         "http://collections.smvk.se/carlotta-em/web/object/1360991",
         "http://collections.smvk.se/carlotta-em/web/object/1360992",
-        "http://collections.smvk.se/carlotta-om/web/object/114686"
+        "http://collections.smvk.se/carlotta-om/web/object/114686",
+        "http://collections.smvk.se/carlotta-om/web/object/103961"
     ],
     "🎏": [
         "http://collections.smvk.se/carlotta-em/web/object/1354581",
@@ -1378,20 +1379,23 @@
         "https://digitaltmuseum.se/021016907380/jazzfestival-pa-berns-stockholm-tva-musiker-framtrader-pa-bas-och-saxofo"
     ],
     "🎸": [
-        "https://digitaltmuseum.se/011023832663/datorspel"
+        "https://digitaltmuseum.se/011023832663/datorspel",
+        "http://collections.smvk.se/carlotta-em/web/object/2273529"
     ],
     "🎹": [
         "https://digitaltmuseum.se/021016737375/ab-gefle-orgel-pianofabrik-orgel"
     ],
     "🎺": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17413&viewType=detailView",
-        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=95173&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=95173&viewType=detailView",
+        "http://collections.smvk.se/carlotta-em/web/object/1572565"
     ],
     "🎻": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17413&viewType=detailView",
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=177753&viewType=detailView",
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17995&viewType=detailView",
-        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18123&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18123&viewType=detailView",
+        "http://collections.smvk.se/carlotta-vkm/web/object/1315520"
     ],
     "🎼": [
         "http://musikverket.se/svensktvisarkiv/files/2014/02/Alice_Tegner_autograf_Betlehems_stjarna.pdf"
@@ -1595,7 +1599,9 @@
     "🏹": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137811&viewType=detailView"
     ],
-    "🏺": [],
+    "🏺": [
+        "http://collections.smvk.se/carlotta-mhm/web/object/3907190"
+    ],
     "🐀": [
         "https://digitaltmuseum.se/021016392476/vanersborgs-museum-afrikanska-fagelsalen-okenloparrattor"
     ],
@@ -1874,7 +1880,8 @@
     ],
     "👁‍🗨": [],
     "👂": [
-        "https://digitaltmuseum.se/011025135959/ora"
+        "https://digitaltmuseum.se/011025135959/ora",
+        "http://collections.smvk.se/carlotta-em/web/object/1503263"
     ],
     "👃": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=40790&viewType=detailView"
@@ -1933,7 +1940,9 @@
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=148038&viewType=detailView",
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=15174&viewType=detailView"
     ],
-    "👘": [],
+    "👘": [
+        "http://collections.smvk.se/carlotta-om/web/object/109091"
+    ],
     "👙": [
         "https://digitaltmuseum.se/011014486156/text-till-bilden-hallekind-1938"
     ],
@@ -2118,10 +2127,17 @@
         "https://stockholmskallan.stockholm.se/post/23965"
     ],
     "👸": [
-        "https://stockholmskallan.stockholm.se/post/12443"
+        "https://stockholmskallan.stockholm.se/post/12443",
+        "http://collections.smvk.se/carlotta-em/web/object/2075741"
+    ],
+    "👮‍♂️": [
+        "http://collections.smvk.se/carlotta-om/web/object/643620"
     ],
     "👹": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=48709&viewType=detailView"
+    ],
+    "🚶‍♂️": [
+        "http://collections.smvk.se/carlotta-em/web/object/1462629"
     ],
     "👺": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=48709&viewType=detailView"
@@ -2149,7 +2165,8 @@
     "💀": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=23416&viewType=detailView",
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=83225&viewType=detailView",
-        "https://stockholmskallan.stockholm.se/post/9873"
+        "https://stockholmskallan.stockholm.se/post/9873",
+        "http://collections.smvk.se/carlotta-em/web/object/1351821"
     ],
     "💁": [],
     "💂": [
@@ -2183,8 +2200,18 @@
     "💇": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=19604&viewType=detailView"
     ],
+    "💇‍♀️": [
+        "http://collections.smvk.se/carlotta-em/web/object/2465041"
+    ],
     "💇‍♂️": [
-        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=19604&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=19604&viewType=detailView",
+        "http://collections.smvk.se/carlotta-vkm/web/object/1315595"
+    ],
+    "🧕": [
+        "http://collections.smvk.se/carlotta-em/web/object/2079904"
+    ],
+    "👳‍♂️": [
+        "http://collections.smvk.se/carlotta-em/web/object/2107026"
     ],
     "💈": [
         "https://digitaltmuseum.se/021016221797/riam-raksalong-interior-tre-personer"
@@ -2441,7 +2468,9 @@
     "📻": [],
     "📼": [],
     "📽": [],
-    "📿": [],
+    "📿": [
+        "http://collections.smvk.se/carlotta-vkm/web/object/36111"
+    ],
     "🔀": [],
     "🔁": [],
     "🔂": [],
@@ -2679,7 +2708,11 @@
         "https://digitaltmuseum.se/011024627509/karta"
     ],
     "🗿": [
-        "http://collections.smvk.se/carlotta-vkm/web/object/1295455"
+        "http://collections.smvk.se/carlotta-vkm/web/object/1295455",
+        "http://collections.smvk.se/carlotta-vkm/web/object/1295512"
+    ],
+    "🧘‍♂️": [
+        "http://collections.smvk.se/carlotta-om/web/object/101138"
     ],
     "😀": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=122066&viewType=detailView",
@@ -3180,12 +3213,18 @@
     "🤧": [],
     "🤱": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18474&viewType=detailView",
-        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=19200&viewType=detailView"
+        "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=19200&viewType=detailView",
+        "http://collections.smvk.se/carlotta-em/web/object/1461117"
+    ],
+    "🤰": [
+        "http://collections.smvk.se/carlotta-em/web/object/2093416"
     ],
     "🤳": [
         "https://digitaltmuseum.se/011014436502/min-spegelbild"
     ],
-    "🤴": [],
+    "🤴": [
+        "http://collections.smvk.se/carlotta-vkm/web/object/1295522"
+    ],
     "🤵": [],
     "🤶": [],
     "🤷": [
@@ -3350,7 +3389,8 @@
     "🧔": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18499&viewType=detailView",
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=36495&viewType=detailView",
-        "https://digitaltmuseum.se/021046508259/erik-xiv-1533-1577"
+        "https://digitaltmuseum.se/021046508259/erik-xiv-1533-1577",
+        "http://collections.smvk.se/carlotta-em/web/object/3676657"
     ],
     "🧙": [],
     "🧙‍♀️": [
