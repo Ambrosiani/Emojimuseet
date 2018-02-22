@@ -2601,7 +2601,9 @@
         "https://digitaltmuseum.se/021016677459/foto-en-restaurering-av-en-kyrka-ett-hal-i-marken-med-en-brada-vid-sida"
     ],
     "🕴": [],
-    "🕵": [],
+    "🕵": [
+        "https://digitaltmuseum.se/021015561297/mm05874"
+    ],
     "🕶": [],
     "🕷": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=77458&viewType=detailView"
@@ -3136,10 +3138,14 @@
     "🛄": [],
     "🛅": [],
     "🛋": [],
-    "🛌": [],
+    "🛌": [
+        "https://digitaltmuseum.se/021016371257/rumsinterior-liggande-man-karl-karlsson-tagen-pa-sangen"
+    ],
     "🛍": [],
     "🛎": [],
-    "🛏": [],
+    "🛏": [
+        "https://digitaltmuseum.se/011023467567/sang"
+    ],
     "🛐": [
         "https://stockholmskallan.stockholm.se/post/21118"
     ],
