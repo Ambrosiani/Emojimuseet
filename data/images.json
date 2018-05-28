@@ -2568,11 +2568,17 @@
         "https://stockholmskallan.stockholm.se/post/21118"
     ],
     "🕐": [],
-    "🕑": [],
+    "🕑": [
+        "https://digitaltmuseum.se/011023367833/klocka"
+    ],
     "🕒": [],
-    "🕓": [],
+    "🕓": [
+        "https://digitaltmuseum.se/011023359601/klocka"
+    ],
     "🕔": [],
-    "🕕": [],
+    "🕕": [
+        "https://digitaltmuseum.se/011023087979/klocka"
+    ],
     "🕖": [],
     "🕗": [],
     "🕘": [
@@ -2604,7 +2610,9 @@
     "🕵": [
         "https://digitaltmuseum.se/021015561297/mm05874"
     ],
-    "🕶": [],
+    "🕶": [
+        "https://digitaltmuseum.se/021025445346/solglasogon"
+    ],
     "🕷": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=77458&viewType=detailView"
     ],
@@ -2746,7 +2754,9 @@
     "😇": [
         "http://collection.nationalmuseum.se/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=160089&viewType=detailView"
     ],
-    "😈": [],
+    "😈": [
+        "https://digitaltmuseum.se/011024615679/djavul"
+    ],
     "🤚": [
         "https://digitaltmuseum.se/021046508479/konstnarens-moder"
     ],
@@ -3232,7 +3242,9 @@
         "http://collections.smvk.se/carlotta-vkm/web/object/1295522"
     ],
     "🤵": [],
-    "🤶": [],
+    "🤶": [
+        "https://digitaltmuseum.se/011023832312/tomtemor"
+    ],
     "🤷": [
         "https://digitaltmuseum.org/021046499897/ung-kvinna-som-sorjer-en-dod-duva-en-rapphona-och-en-kungsfiskare"
     ],
