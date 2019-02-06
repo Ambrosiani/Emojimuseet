@@ -8,6 +8,8 @@ The source code for [Emojimuseet](https://twitter.com/Emojimuseet), a local Swed
 
 The emojis reside in [images.json](https://github.com/Ambrosiani/Emojimuseet/blob/master/data/images.json). Feel free to contribute!
 
+Updated source code, soon to be merged: [twitter-webhooks](https://github.com/Ambrosiani/twitter-webhooks)
+
 ## To run your own copy
 
 ### Configuration
